@@ -1,0 +1,11 @@
+.photo{
+    width: 47px;
+    flex-shrink: 0;
+
+}
+
+.img{
+    border-radius: 99%;
+    width: 100%;
+    border: 2px solid;
+}

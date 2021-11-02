@@ -1,0 +1,25 @@
+.box {
+    padding: 10px;
+  
+    &:hover {
+      color: var(--c-text-color);
+    }
+  }
+  
+  .body {
+    margin-left: 10px;
+    margin-right: 20px;
+  
+    * {
+      display: block;
+    }
+  }
+  
+  .slug {
+    color: var(--c-gray);
+    padding-left: 0 !important;
+  }
+  
+  .icon {
+    margin-left: auto;
+  }
