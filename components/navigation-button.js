@@ -31,5 +31,6 @@ Burada şimdi biz ilk olarak butonun içine propslar dışında
     Eğer notify değeri yoksa bildirim yok dicez.
       Eğer notify değeri varsa span içinde o değeri yazırmak istiyoruuz.
     
+    Propslar yerine kullanılabilir.
     
 */}
