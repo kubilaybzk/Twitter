@@ -1,0 +1,17 @@
+.Layout{
+    display: grid;
+    grid-template-columns: 230px 1fr;
+    /*Burada bilmemiz gerken sol ve sağ alan 230 px olsun orta alan max genişliği alsın
+    */
+    min-height: 100vh;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+@media screen and (min-width: 988px) {
+    .Layout{
+        grid-template-columns: 230px 1fr 230px;
+    }
+    
+}
